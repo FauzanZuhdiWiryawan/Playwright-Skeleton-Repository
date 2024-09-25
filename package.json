@@ -1,0 +1,14 @@
+{
+  "name": "playwright-skeleton-repository",
+  "version": "1.0.0",
+  "description": "Di dalam repository ini terdapat beberapa function dan kerangka script test case yang biasa saya gunakan dalam penyusunan script automate test",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.7.0"
+  }
+}
